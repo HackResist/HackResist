@@ -41,15 +41,18 @@
 
 <!--Follow Me On Start-->
 ## ![Follow Me](/icon/follow.svg) Follow Me On 
+<p>
 <p align="center">
-    <a href="https://www.hackerrank.com/profile/lokeshchauhan171"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/>
-    </a>
-    <a href="https://geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/>
-    </a>
-    <a href="https://www.linkedin.com/in/lokeshchauhanapex"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | Linkedin"/>
+    <a href="https://www.hackerrank.com/profile/lokeshchauhan171"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/></a>
+    <a href="https://geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
+  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
    </a>
     <a href="https://replit.com/@HackResist"><img src="https://img.shields.io/badge/Replit-100000?style=plastic&logo=replit&logoColor=f26207&labelColor=051E59&color=0e1525" alt="Lokesh Chauhan | Replit"/>
     </a>
+
+
+
+ 
 
 </p>
 
@@ -67,6 +70,9 @@
   </a></p>
 <!--Technical Skills End-->
 <!--Visitors Start-->
+<!--Buy With Coffee-->
+<!--Find On Petron-->
+<!--Donate -->
 
 ## 👀 Visitors
 ![Visitors](https://moe-counter.glitch.me/get/@HackResist?theme=rule34)
