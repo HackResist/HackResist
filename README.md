@@ -1,0 +1,69 @@
+<!--Banner Start-->
+<p align="center">
+  <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
+</p>
+<!--Banner End-->
+<!--About Me Start-->
+
+## 😄 About Me
+- 🎓 I am a Second year Bachelor of Technology in <strong>Computer Science and Engineering</strong> student at Apex Institute of Engineering and Technology, Jaipur.
+- 🌱 I am currently learning Python and Internet of Things.
+- 🔭 I am currently working on IOT Projects.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
+  <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Telegram-100000?style=plastic&logo=Telegram&logoColor=FF&labelColor=070858&color=070858" alt="HackScripter | Telegram"/></a>
+    <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a>
+</p>
+<!--About Me End-->
+
+<!-- Join Wiith Me Start-->
+
+## ![Join With Me](/icon/join.svg) Join With Me 
+<p align="center">
+    <a href="https://discord.com/invite/yGnCBRzjA5"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/>
+    </a>
+
+</p>
+<!--Join With Me End -->
+
+<!--Follow Me On Start-->
+## ![Follow Me](/icon/follow.svg) Follow Me On 
+<p align="center">
+    <a href="https://www.hackerrank.com/profile/lokeshchauhan171"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/>
+    </a>
+    <a href="https://geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/>
+    </a>
+    <a href="https://www.linkedin.com/in/lokeshchauhanapex"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | Linkedin"/>
+   </a>
+    <a href="https://replit.com/@HackResist"><img src="https://img.shields.io/badge/Replit-100000?style=plastic&logo=replit&logoColor=f26207&labelColor=051E59&color=0e1525" alt="Lokesh Chauhan | Replit"/>
+    </a>
+
+</p>
+
+<!--Follow ME n End-->
+
+<!--My Project Strart-->
+## 👨‍💻 My projects
+* [TeleTabAlert_Extension ](https://github.com/HackResist/TeleTabAlert_Extension) - A Browser Extension Made Using  <strong>JavaScript </strong> for track search website by browser .
+<!--My Project End-->
+<!--Technical Skills Start-->
+## ![Technical Skills](icon/Skill.svg) Technical Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,cpp,py,bash,js" />
+  </a></p>
+<!--Technical Skills End-->
+<!--Visitors Start-->
+
+## 👀 Visitors
+![Visitors](https://moe-counter.glitch.me/get/@HackResist?theme=rule34)
+<!--Visitors End -->
+<!--Github Graph Start-->
+## ![Github Stats](/icon/graph.svg) GitHub Stats 
+[![Lokesh’s github stats](https://github-readme-stats.vercel.app/api?username=HackResist&show_icons=true&theme=dark&count_private=true)](https://github.com/HackResist)
+<!--Github Graph End-->
+ 
+
+
