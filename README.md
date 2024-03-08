@@ -6,10 +6,21 @@
 <!--About Me Start-->
 
 ## 😄 About Me
-- 🎓 I am a Second year Bachelor of Technology in <strong>Computer Science and Engineering</strong> student at Apex Institute of Engineering and Technology, Jaipur.
-- 🌱 I am currently learning Python and Internet of Things.
-- 🔭 I am currently working on IOT Projects.
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+> 👋 Hello, I'm Lokesh Chauhan!
+
+> 🎓 Currently pursuing a Bachelor's degree in Computer Science and Engineering at Apex University, Jaipur.
+
+> 🌟 Passionate about the Internet of Things (IoT) and exploring how technology can connect and enhance the world around us.
+<!--- 🎓 I am a Second year Bachelor of Technology in <strong>Computer Science and Engineering</strong> student at Apex Institute of Engineering and Technology, Jaipur.-->
+> 🔍 Always eager to learn and grow in the field of technology, with a keen interest in integrating hardware and software solutions.
+<!--- 🌱 I am currently learning Python and Internet of Things.-->
+> 🛠 Currently working on IoT projects to develop innovative solutions that leverage the power of connected devices and data.
+
+> 🔭 Check out my GitHub repositories to see my projects and contributions.
+
+<!-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+-->
+>  📫 Let's connect! Feel free to reach out for discussions on IoT, programming, or any tech-related topics.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
