@@ -25,7 +25,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
   <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Telegram-100000?style=plastic&logo=Telegram&logoColor=FF&labelColor=070858&color=070858" alt="HackScripter | Telegram"/></a>
-    <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a>
+    <a href="https://discordapp.com/users/devloperlokesh"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a>
 </p>
 <!--About Me End-->
 
