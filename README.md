@@ -65,9 +65,19 @@
 <!--Technical Skills Start-->
 ## ![Technical Skills](icon/Skill.svg) Technical Skills
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cpp,py,bash,js" />
-  </a></p>
+  <a href="https://www.open-std.org/JTC1/SC22/WG14/">
+    <img src="https://skillicons.dev/icons?i=c" /></a>
+ <a href=https://www.oracle.com/java/">
+    <img src="https://skillicons.dev/icons?i=java" /></a>
+ <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" /></a>
+<a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" /></a>
+  <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://skillicons.dev/icons?i=js" /></a>
+      </p>
 <!--Technical Skills End-->
 <!--Visitors Start-->
 <!--Buy With Coffee-->
