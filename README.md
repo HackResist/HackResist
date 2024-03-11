@@ -60,7 +60,7 @@
 
 <!--My Project Strart-->
 ## 👨‍💻 My projects
-* Telegram_WebNotifier ](https://github.com/HackResist/TeleTabAlert_Extension) - A Browser Extension Made Using  <strong>JavaScript </strong> for track search website by browser .
+* [Telegram_WebNotifier ](https://github.com/HackResist/TeleTabAlert_Extension) - A Browser Extension Made Using  <strong>JavaScript </strong> for track search website by browser .
 <!--My Project End-->
 <!--Technical Skills Start-->
 ## ![Technical Skills](icon/Skill.svg) Technical Skills
