@@ -1,4 +1,5 @@
 <!--Banner Start-->
+<meta name="google-site-verification" content="JrBYUzfSn0YQbQXBh2cm3r3GwIWoOOHBc9Kwsz9myXM" />
 <p align="center">
   <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
 </p>
