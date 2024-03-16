@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="google-site-verification" content="JrBYUzfSn0YQbQXBh2cm3r3GwIWoOOHBc9Kwsz9myXM" />
+<meta name="google-site-verification" content="JrBYUzfSn0YQbQXBh2cm3r3GwIWoOOHBc9Kwsz9myXM" />
 </head>
 
 </html>
