@@ -1,12 +1,5 @@
 <!--Banner Start-->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="google-site-verification" content="JrBYUzfSn0YQbQXBh2cm3r3GwIWoOOHBc9Kwsz9myXM" />
-</head>
 
-</html>
 <p align="center">
   <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
 </p>
