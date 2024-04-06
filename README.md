@@ -1,9 +1,9 @@
 <!--Banner Start-->
 
-<p align="center">
+<!--<p align="center">
   <a href="#blank"><img src="icon/Banner.png" alt="HackResist"></a>
 </p>
-
+-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello+Visitors.+Welcome+Here!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+greatness+together!+%F0%9F%9A%80;%E2%9C%A8in+the+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
 <!--Banner End-->
 <!--About Me Start-->
