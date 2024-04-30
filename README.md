@@ -27,21 +27,20 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
-  <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Telegram-100000?style=plastic&logo=Telegram&logoColor=FF&labelColor=070858&color=070858" alt="HackScripter | Telegram"/></a>
+ <!-- <a href="https://t.me/HackResist"><img src="https://img.shields.io/badge/Telegram-100000?style=plastic&logo=Telegram&logoColor=FF&labelColor=070858&color=070858" alt="HackScripter | Telegram"/></a>
     <a href="https://discordapp.com/users/devloperlokesh"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/></a>
-</p>
+</p> -->
 <!--About Me End-->
 
 <!-- Join Wiith Me Start-->
-
+<!--
 ## ![Join With Me](/icon/join.svg) Join With Me 
 <p align="center">
     <a href="https://discord.com/invite/yGnCBRzjA5"><img src="https://img.shields.io/badge/Discord-100000?style=plastic&logo=discord&logoColor=F7F7F7&labelColor=000DFF&color=000DFF" alt="HackScripter | Discord"/>
     </a>
 
 </p>
-<!--Join With Me End -->
-
+<!--Join With Me End -->  -->
 <!--Follow Me On Start-->
 ## ![Follow Me](/icon/follow.svg) Follow Me On 
 <p>
@@ -95,7 +94,8 @@
 ## ![Github Stats](/icon/graph.svg) GitHub Stats 
 [![Lokesh’s github stats](https://github-readme-stats.vercel.app/api?username=HackResist&show_icons=true&theme=dark&count_private=true)](https://github.com/HackResist)
 <!--Github Graph End-->
+<!-- Streak -->
  ![hackresist's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hackresist&theme=cobalt&hide_border=false)
- 
+ <!--Top Language-->
   ![hackresist's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hackresist&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
 
