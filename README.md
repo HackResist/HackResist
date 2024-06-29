@@ -65,7 +65,7 @@
 <!--My Project Strart-->
 ## 👨‍💻 My projects
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - This is a basic and simple Python program designed to rename filenames and file extensions.
-* [GeeksForGeeks-POTD](https://github.com/HackResist/GeeksForGeeks-POTD) - GeeksForGeeks solutions for the Problem of the Day in all supported languages. Visit GeeksforGeeks for more details.
+* [GeeksForGeeks-POTD](https://github.com/HackResist/GeeksForGeeks-POTD) - GeeksForGeeks solutions for the Problem of the Day in all supported languages.
 <!--My Project End-->
 <!--Technical Skills Start-->
 ## ![Technical Skills](icon/Skill.svg) Technical Skills
