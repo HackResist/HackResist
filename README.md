@@ -38,7 +38,7 @@
 * [PRODIGY TASK_01](https://github.com/HackResist/PRODIGY_CS_01) - Caesar Cipher tool that encrypt and decrypt text.
 * [PRODIGY TASK_02](https://github.com/HackResist/PRODIGY_CS_02) - Pixel Manipulation for Image Encryption.
 * [PRODIGY TASK_03](https://github.com/HackResist/PRODIGY_CS_03) - Password Complexity Checker based on criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters.
-* [PRODIGY -TASK_04](https://github.com/HackResist/PRODIGY_CS_04) - Simple Keylogger program that records and logs keystrokes. It's also save all records into a txt file.
+* [PRODIGY TASK_04](https://github.com/HackResist/PRODIGY_CS_04) - Simple Keylogger program that records and logs keystrokes. It's also save all records into a txt file.
 * [PRODIGY TASK_05](https://github.com/HackResist/PRODIGY_CS_05) - Network Packet Analyzer tool that captures and analyzes network packets.
 
 ## ![Technical Skills](icon/Skill.svg) Technical Skills
