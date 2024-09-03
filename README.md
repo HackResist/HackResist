@@ -6,15 +6,18 @@
 > 🎓 Currently pursuing a Bachelor's degree in Computer Science and Engineering at Apex University, Jaipur.
 
 > 🌟 Passionate about the Internet of Things (IoT) and exploring how technology can connect and enhance the world around us.
+
 > 🔍 Always eager to learn and grow in the field of technology, with a keen interest in integrating hardware and software solutions.
+
 > 🛠 Currently working on IoT projects to develop innovative solutions that leverage the power of connected devices and data.
 
 > 🔭 Check out my GitHub repositories to see my projects and contributions.
 
 >  📫 Let's connect! Feel free to reach out for discussions on IoT, programming, or any tech-related topics.
-
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
+  -->
   
 ## ![Follow Me](/icon/follow.svg) Follow Me On 
 <p>
@@ -33,6 +36,7 @@
 </p>
 
 ## 👨‍💻 My projects
+* [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - Real-time Web Activity Notifications on Telegram.
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - This IOT Project used to control Home appliances with telegram.
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - This is a basic and simple Python program designed to rename filenames and file extensions.
 * [GeeksForGeeks-POTD](https://github.com/HackResist/GeeksForGeeks-POTD) - GeeksForGeeks solutions for the Problem of the Day in all supported languages.
