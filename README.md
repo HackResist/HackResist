@@ -1,5 +1,62 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello+Visitors.+Welcome+Here!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+greatness+together!+%F0%9F%9A%80;%E2%9C%A8in+the+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
 
+
+ ## Supported Language
+ <details>
+ <summary>Read in Your Native Language</summary>
+  <p align="center">
+    <a href="/docs/readme_ar-EG.md">العربية (مصر)</a>
+    |
+    <a href="/docs/readme_de.md">Deutsch</a>
+    |
+    <a href="/docs/readme_es.md">Español</a>
+    |
+    <a href="/docs/readme_fr-FR.md">Français </a>
+    |
+    <a href="/docs/readme_hi-IN.md">हिंदी</a>
+    |
+    <a href="/docs/readme_id.md">Bahasa Indonesia</a>
+    |
+    <a href="/docs/readme_it.md">Italiano</a>
+    |
+    <a href="/docs/readme_ja.md">日本語</a>
+    |
+    <a href="/docs/readme_kn-IN.md">ಕನ್ನಡ</a>
+    |
+    <a href="/docs/readme_kr.md">한국어</a>
+    |
+    <a href="/docs/readme_lb.md">Lëtzebuergesch</a>
+    |
+    <a href="/docs/readme_ml-IN.md">മലയാളം</a>
+    |
+    <a href="/docs/readme_np.md">नेपाली</a>
+    |
+    <a href="/docs/readme_nl-NL.md">Nederlands</a>
+    |
+    <a href="/docs/readme_pa-IN.md">ਪੰਜਾਬੀ</a>
+    |
+    <a href="/docs/readme_pt.md">Português</a>
+    |
+    <a href="/docs/readme_ru.md">Русский</a>
+    |
+    <a href="/docs/readme_ta-IN.md">தமிழ்</a>
+    |
+    <a href="/docs/readme_th.md">ไทย</a>
+    |
+    <a href="/docs/readme_tr.md">Türkçe</a>
+    |
+    <a href="/docs/readme-ukr.md">Українська</a>
+    |
+    <a href="/docs/readme-zh.md">中文</a>
+    |
+ 
+  </p>
+    <p align="center">
+     <p1>Be aware that translated documentation might be outdated; it's best to refer to the English documentation if you can.</p1>
+     </p>
+  </details>
+
+
 ## 😄 About Me
 > 👋 Hello, I'm Lokesh Chauhan!
 
