@@ -40,7 +40,7 @@
 * [PRODIGY TASK_04](https://github.com/HackResist/PRODIGY_CS_04) - కీ లాగర్ ప్రోగ్రామ్, కీ స్ట్రోక్లను రికార్డ్ చేసి లాగ్ చేస్తుంది, txt ఫైల్‌లో సేకరిస్తుంది.
 * [PRODIGY TASK_05](https://github.com/HackResist/PRODIGY_CS_05) - నెట్‌వర్క్ ప్యాకెట్ అనాలైజర్ టూల్, నెట్‌వర్క్ ప్యాకెట్లను పట్టుకొని విశ్లేషిస్తుంది.
 
-## ![Technical Skills](icon/Skill.svg) టెక్నికల్ నైపుణ్యాలు
+## ![Technical Skills](/icon/Skill.svg) టెక్నికల్ నైపుణ్యాలు
 <p align="center">
   <a href="https://www.open-std.org/JTC1/SC22/WG14/">
     <img src="https://skillicons.dev/icons?i=c" /></a>
