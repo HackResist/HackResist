@@ -49,6 +49,8 @@
     |
     <a href="/docs/readme-zh.md">中文</a>
     |
+    <a href="/docs/readme-te.md">తెలుగు</a>
+   
  
   </p>
     <p align="center">
