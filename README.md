@@ -45,11 +45,11 @@
     |
     <a href="/docs/readme_tr.md">Türkçe</a>
     |
-    <a href="/docs/readme-ukr.md">Українська</a>
+    <a href="/docs/readme_ukr.md">Українська</a>
     |
-    <a href="/docs/readme-zh.md">中文</a>
+    <a href="/docs/readme_zh.md">中文</a>
     |
-    <a href="/docs/readme-te.md">తెలుగు</a>
+    <a href="/docs/readme_te.md">తెలుగు</a>
    
  
   </p>
