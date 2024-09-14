@@ -20,39 +20,14 @@
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | LinkedIn"/></a>
 -->
   
-## ![ติดตามฉัน](/icon/follow.svg) ติดตามฉันได้ที่ 
-<p align="center">
-    <a href="https://www.hackerrank.com/profile/lokeshchauhan"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
-  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | LinkedIn"/></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&pause=1000&center=true&vCenter=true&width=835&lines=+%F0%9F%91%8B%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%80%E0%B8%A2%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B8%A1+%E0%B8%A2%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%99%E0%B8%B5%E0%B9%88!%F0%9F%91%8B;%F0%9F%9A%80+%E0%B8%A1%E0%B8%B2%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%84%E0%B8%9B%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%99!+%F0%9F%9A%80;%E2%9C%A8+%E0%B9%83%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99+%E0%B9%86+%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88%E0%B9%80%E0%B8%AB%E0%B8%99%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2.+%E2%9C%A8)](https://git.io/typing-svg)
-
-## 😄 เกี่ยวกับฉัน
-> 👋 สวัสดีครับ, ผมคือ โลเกช เชาฮาน!
-
-> 🎓 กำลังศึกษาระดับปริญญาตรีสาขาวิศวกรรมคอมพิวเตอร์และวิทยาการคอมพิวเตอร์ที่มหาวิทยาลัย Apex เมืองชัยปุระ
-
-> 🌟 มีความหลงใหลในเทคโนโลยี Internet of Things (IoT) และสำรวจว่าเทคโนโลยีสามารถเชื่อมโยงและเพิ่มประสิทธิภาพให้กับโลกได้อย่างไร
-
-> 🔍 ต้องการเรียนรู้และเติบโตในสาขาเทคโนโลยีอยู่เสมอ โดยมีความสนใจในด้านการรวมฮาร์ดแวร์และซอฟต์แวร์เข้าด้วยกัน
-
-> 🛠 กำลังทำงานในโปรเจค IoT เพื่อพัฒนาโซลูชั่นที่ใช้พลังของอุปกรณ์เชื่อมต่อและข้อมูลเพื่อความสร้างสรรค์ใหม่ๆ
-
-> 🔭 อย่าลืมตรวจสอบที่เก็บโค้ดของผมบน GitHub เพื่อดูโปรเจคและการมีส่วนร่วมของผม
-
-> 📫 เชื่อมต่อกับผมได้เลย! รู้สึกอิสระที่จะติดต่อมาพูดคุยเกี่ยวกับ IoT, การเขียนโปรแกรม, หรือหัวข้อที่เกี่ยวข้องกับเทคโนโลยีอื่นๆ
-
-<!--
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | LinkedIn"/></a>
--->
   
 ## ![ติดตามฉัน](/icon/follow.svg) ติดตามฉันได้ที่ 
 <p align="center">
     <a href="https://www.hackerrank.com/profile/lokeshchauhan"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/></a>
     <a href="https://auth.geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan | LinkedIn"/></a>
-    <a href="https://replit.com/@HackResist"><img src="https://img.shields.io/badge/Replit-100000?style=plastic&logo=replit&logoColor=f26207&labelColor=051E59&color=0e1525" alt="Lokesh Chauhan | Replit"/></a>
+<a href="https://x.com/dev_lokesh_"><img src="https://img.shields.io/badge/Twitter-100000?style=plastic&logo=x&logoColor=ffffff&labelColor=000000&color=0e1525" alt="Lokesh Chauhan | Twitter"/>
+    </a>
 </p>
 
 ## 👨‍💻 โปรเจคของฉัน
