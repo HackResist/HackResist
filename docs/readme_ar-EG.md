@@ -31,6 +31,7 @@
 </p>
 
 ## 👨‍💻 مشاريعي
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - سكربت PowerShell يمكّن إدارة النظام عن بُعد، بما في ذلك عمليات الملفات، التحكم في النظام، ومراقبة الأجهزة عبر أوامر الدردشة في Telegram
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - إشعارات نشاط الويب في الوقت الحقيقي على Telegram.
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - مشروع IoT يستخدم للتحكم في الأجهزة المنزلية عبر Telegram.
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - برنامج Python بسيط لتغيير أسماء الملفات وامتداداتها.
