@@ -31,6 +31,7 @@
 </p>
 
 ## 👨‍💻 我的项目
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShell脚本支持远程系统管理，包括文件操作、系统控制和通过Telegram聊天命令监控设备。
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - 实时网页活动通知通过 Telegram。
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - 这个 IoT 项目用于通过 Telegram 控制家用电器。
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - 这是一个基本且简单的 Python 程序，旨在重命名文件名和文件扩展名。
