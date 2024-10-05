@@ -29,7 +29,7 @@
     |
     <a href="/docs/readme_ml-IN.md">മലയാളം</a>
     |
-    <a href="/docs/readme_np.md">नेपाली</a>
+    <a href="/docs/readme_ne-NP.md">नेपाली</a>
     |
     <a href="/docs/readme_nl-NL.md">Nederlands</a>
     |
