@@ -30,6 +30,7 @@
 </p>
 
 ## 👨‍💻 Projelerim
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShell betiği, dosya işlemleri, sistem kontrolü ve Telegram sohbet komutları aracılığıyla cihaz izlemeyi içeren uzaktan sistem yönetimini sağlar.
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - Telegram üzerinde gerçek zamanlı web etkinlik bildirimleri.
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - Bu IoT projesi, ev eşyalarını Telegram ile kontrol etmek için kullanılır.
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - Dosya adlarını ve dosya uzantılarını yeniden adlandırmak için tasarlanmış basit bir Python programı.
