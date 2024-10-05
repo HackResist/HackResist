@@ -31,6 +31,7 @@
 </p>
 
 ## 👨‍💻 Meng Projeten
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShell-Skript fir d'Fernsteierung vum System, inklusiv Dateimanipulatiounen, Systemkontroll an Apparateniwwerwaachung iwwer Telegram-Chatbefehler.
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - Echtzäit Web Aktivitéit Notifikatiounen op Telegram.
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - Dëst IoT-Projet gëtt benotzt fir Heemgeräter mat Telegram ze kontrolléieren.
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - Dëst ass e Basis- a einfache Python-Programm entwéckelt fir Dateinamen an Dateierweiterungen z'änneren.
