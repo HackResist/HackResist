@@ -32,6 +32,7 @@
 </p>
 
 ## 👨‍💻 나의 프로젝트
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShell 스크립트는 파일 작업, 시스템 제어, Telegram 채팅 명령을 통한 장치 모니터링을 포함한 원격 시스템 관리를 가능하게 합니다
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - 실시간 웹 활동 알림을 텔레그램에서 받기.
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - 텔레그램을 사용해 가정용 기기를 제어하는 IoT 프로젝트.
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - 파일 이름 및 확장자를 변경하는 간단한 Python 프로그램.
