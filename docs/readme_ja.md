@@ -31,6 +31,7 @@
 </p>
 
 ## 👨‍💻 私のプロジェクト
+* [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShellスクリプトは、ファイル操作、システム制御、およびTelegramチャットコマンドを介したデバイス監視を含むリモートシステム管理を可能にします。
 * [Telegram WebNotifier](https://github.com/HackResist/Telegram_WebNotifier) - TelegramでのリアルタイムWebアクティビティ通知。
 * [SmartHomeBot](https://github.com/HackResist/SmartHomeBot) - テレグラムを使用して家庭用電化製品を制御するIoTプロジェクト。
 * [File Renaming Tool](https://github.com/HackResist/File-Renaming-Tool) - ファイル名と拡張子を変更するための基本的でシンプルなPythonプログラム。
