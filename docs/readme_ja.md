@@ -26,7 +26,7 @@
     <a href="https://auth.geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
   <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | LinkedIn"/></a>
    </a>
-<a href="https://x.com/dev_lokesh_"><img src="https://img.shields.io/badge/Twitter-100000?style=plastic&logo=x&logoColor=ffffff&labelColor=000000&color=0e1525" alt="Lokesh Chauhan | Twitter"/>
+<a href="https://x.com/Hackresist"><img src="https://img.shields.io/badge/Twitter-100000?style=plastic&logo=x&logoColor=ffffff&labelColor=000000&color=0e1525" alt="Lokesh Chauhan | Twitter"/>
     </a>
 </p>
 
