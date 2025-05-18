@@ -13,8 +13,8 @@
     |
     <a href="/docs/readme_fr-FR.md">Français </a>
     |
-    <a href="/docs/readme_hi-IN.md">हिंदी</a>
-    |
+   <!-- <a href="/docs/readme_hi-IN.md">हिंदी</a>
+    | -->
     <a href="/docs/readme_id.md">Bahasa Indonesia</a>
     |
     <a href="/docs/readme_it.md">Italiano</a>
