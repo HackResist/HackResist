@@ -120,6 +120,8 @@
     <img src="https://skillicons.dev/icons?i=bash" /></a>
   <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
     <img src="https://skillicons.dev/icons?i=js" /></a>
+ <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" /></a>
       </p>
 
 
