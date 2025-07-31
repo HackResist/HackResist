@@ -1,17 +1,3 @@
-
-<pre style="font-family: monospace; line-height: 1.2;  white-space: pre;">
-<span style="color:#ff0000">__/\\\________/\\\____</span><span style="color:#37ff14">/\\\\\\\\\\\\\\\____</span><span style="color:#0033ff">/\\\______________</span><span style="color:#14ffd4">/\\\______________________</span><span style="color:#CC5500">/\\\\\_______</span>        
-<span style="color:#ff0000"> _\/\\\_______\/\\\___</span><span style="color:#37ff14">\/\\\///////////____</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\____________________</span><span style="color:#CC5500">/\\\///\\\_____</span>       
-<span style="color:#ff0000">  _\/\\\_______\/\\\___</span><span style="color:#37ff14">\/\\\_______________</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\__________________</span><span style="color:#CC5500">/\\\/__\///\\\___</span>      
-<span style="color:#ff0000">   _\/\\\\\\\\\\\\\\\___</span><span style="color:#37ff14">\/\\\\\\\\\\\_______</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\_________________</span><span style="color:#CC5500">/\\\______\//\\\__</span>     
-<span style="color:#ff0000">    _\/\\\/////////\\\___</span><span style="color:#37ff14">\/\\\///////________</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\________________</span><span style="color:#CC5500">\/\\\_______\/\\\__  </span>    
-<span style="color:#ff0000">     _\/\\\_______\/\\\___</span><span style="color:#37ff14">\/\\\_______________</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\________________</span><span style="color:#CC5500">\//\\\______/\\\___</span>   
-<span style="color:#ff0000">      _\/\\\_______\/\\\___</span><span style="color:#37ff14">\/\\\_______________</span><span style="color:#0033ff">\/\\\_____________</span><span style="color:#14ffd4">\/\\\_________________</span><span style="color:#CC5500">\///\\\__/\\\_____</span>  
-<span style="color:#ff0000">       _\/\\\_______\/\\\___</span><span style="color:#37ff14">\/\\\\\\\\\\\\\\\___</span><span style="color:#0033ff">\/\\\\\\\\\\\\\\\_</span><span style="color:#14ffd4">\/\\\\\\\\\\\\\\\_______</span><span style="color:#CC5500">\///\\\\\/______</span> 
-<span style="color:#ff0000">        _\///________\///____</span><span style="color:#37ff14">\///////////////____</span><span style="color:#0033ff">\///////////////__</span><span style="color:#14ffd4">\///////////////__________</span><span style="color:#CC5500">\/////________ </span>
-</pre>
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6172FF&center=true&vCenter=true&random=false&width=835&lines=%F0%9F%91%8BHello+Visitors.+Welcome+Here!%F0%9F%91%8B;+%F0%9F%9A%80+Let's+create+greatness+together!+%F0%9F%9A%80;%E2%9C%A8in+the+world+of+technology+and+beyond.+%E2%9C%A8)](https://git.io/typing-svg)
 
 
