@@ -73,26 +73,8 @@
 > 🔭 Check out my GitHub repositories to see my projects and contributions.
 
 >  📫 Let's connect! Feel free to reach out for discussions on IoT, programming, or any tech-related topics.
-<!--
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
-  -->
-  
-## ![Follow Me](/icon/follow.svg) Follow Me On 
-<p>
-<p align="center">
-    <a href="https://www.hackerrank.com/profile/lokeshchauhan"><img src="https://img.shields.io/badge/Hackerrank-100000?style=plastic&logo=hackerrank&logoColor=FFFFFF&labelColor=42BA3D&color=0EA608" alt="Lokesh Chauhan | Hackerrank"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/lokeshchauhan"><img src="https://img.shields.io/badge/GeeksforGeeks-100000?style=plastic&logo=geeksforgeeks&logoColor=FFFFFF&labelColor=42BA3D&color=23891F" alt="Lokesh Chauhan | GeeksforGeeks"/></a>
-  <a href="https://www.linkedin.com/in/lokeshchauhanapex/"><img src="https://img.shields.io/badge/Linkedin-10000?style=plastic&logo=LinkedIn&logoColor=FFFFFF&labelColor=2A79D7&color=2A79D7" alt="Lokesh Chauhan  | Linkdin"/></a>
-   </a>
-    <a href="https://x.com/HackResist"><img src="https://img.shields.io/badge/Twitter-100000?style=plastic&logo=x&logoColor=ffffff&labelColor=000000&color=0e1525" alt="Lokesh Chauhan | Twitter"/>
-    </a>
 
 
-
- 
-
-</p>
 
 ## 👨‍💻 My projects
 * [Shell-X-Bot](https://github.com/HackResist/Shell-X-bot) - PowerShell script enabling remote system management, including file operations, system control, and device monitoring via Telegram chat commands.
